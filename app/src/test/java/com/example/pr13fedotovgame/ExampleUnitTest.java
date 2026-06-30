@@ -1,4 +1,4 @@
-package com.example.pr13homyakovgame;
+package com.example.pr13fedotovgame;
 
 import org.junit.Test;
 

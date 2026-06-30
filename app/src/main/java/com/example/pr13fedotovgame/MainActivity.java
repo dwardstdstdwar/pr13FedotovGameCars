@@ -1,4 +1,4 @@
-package com.example.pr13homyakovgame;
+package com.example.pr13fedotovgame;
 
 import android.os.Bundle;
 import android.os.Handler;

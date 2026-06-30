@@ -3,13 +3,13 @@ plugins {
 }
 
 android {
-    namespace = "com.example.pr13homyakovgame"
+    namespace = "com.example.pr13fedotovgame"
     compileSdk {
         version = release(36)
     }
 
     defaultConfig {
-        applicationId = "com.example.pr13homyakovgame"
+        applicationId = "com.example.pr13fedotovgame"
         minSdk = 31
         targetSdk = 36
         versionCode = 1
